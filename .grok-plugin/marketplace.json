@@ -280,6 +280,19 @@
       "homepage": "https://browser-use.com",
       "keywords": ["browser use", "browser-use", "browser use cloud"],
       "domains": ["browser-use.com", "cloud.browser-use.com"]
+    },
+    {
+      "name": "orshot",
+      "description": "Generate images, PDFs, and videos from your Orshot templates. Bundles the hosted Orshot MCP server plus skills for template rendering, dynamic parameters, brand-kit-aware design, and social publishing.",
+      "category": "design",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Orshot-HQ/orshot-agent-skills.git",
+        "sha": "7aeed68fc15874f17764e36276df5030c4ee4149"
+      },
+      "homepage": "https://orshot.com",
+      "keywords": ["orshot", "orshot templates", "orshot studio"],
+      "domains": ["orshot.com", "mcp.orshot.com", "api.orshot.com"]
     }
   ]
 }

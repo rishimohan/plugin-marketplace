@@ -524,6 +524,28 @@
         ]
       }
     },
+    "orshot": {
+      "sha": "7aeed68fc15874f17764e36276df5030c4ee4149",
+      "version": "1.0.0",
+      "components": {
+        "mcpServers": [
+          {
+            "name": "orshot",
+            "description": "http"
+          }
+        ],
+        "skills": [
+          {
+            "name": "orshot",
+            "description": "Generate images, PDFs, and videos from templates with Orshot — via the REST API, SDKs (Node/Python/PHP/Ruby), the remot…"
+          },
+          {
+            "name": "orshot-design",
+            "description": "Design trendy, professional, on-brand Orshot studio templates. Use when creating or refining a template design via the…"
+          }
+        ]
+      }
+    },
     "pstack": {
       "sha": "bdf7aa355337897f167153e05069aca505dae17c",
       "components": {
