@@ -525,7 +525,7 @@
       }
     },
     "orshot": {
-      "sha": "7aeed68fc15874f17764e36276df5030c4ee4149",
+      "sha": "3fd944c169e471ebfa536ece7c7b3f8af66bbcc2",
       "version": "1.0.0",
       "components": {
         "mcpServers": [
